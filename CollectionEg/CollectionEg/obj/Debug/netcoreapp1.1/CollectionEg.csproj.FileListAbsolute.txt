@@ -1,0 +1,9 @@
+H:\L&T\NewBatch\CollectionEg\CollectionEg\bin\Debug\netcoreapp1.1\CollectionEg.deps.json
+H:\L&T\NewBatch\CollectionEg\CollectionEg\bin\Debug\netcoreapp1.1\CollectionEg.runtimeconfig.json
+H:\L&T\NewBatch\CollectionEg\CollectionEg\bin\Debug\netcoreapp1.1\CollectionEg.runtimeconfig.dev.json
+H:\L&T\NewBatch\CollectionEg\CollectionEg\bin\Debug\netcoreapp1.1\CollectionEg.dll
+H:\L&T\NewBatch\CollectionEg\CollectionEg\bin\Debug\netcoreapp1.1\CollectionEg.pdb
+H:\L&T\NewBatch\CollectionEg\CollectionEg\obj\Debug\netcoreapp1.1\CollectionEg.csprojResolveAssemblyReference.cache
+H:\L&T\NewBatch\CollectionEg\CollectionEg\obj\Debug\netcoreapp1.1\CollectionEg.AssemblyInfo.cs
+H:\L&T\NewBatch\CollectionEg\CollectionEg\obj\Debug\netcoreapp1.1\CollectionEg.dll
+H:\L&T\NewBatch\CollectionEg\CollectionEg\obj\Debug\netcoreapp1.1\CollectionEg.pdb

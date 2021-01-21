@@ -1,0 +1,6 @@
+H:\L&T\NewBatch\GenericsEg\GenericsEg\bin\Debug\GenericsEg.exe.config
+H:\L&T\NewBatch\GenericsEg\GenericsEg\bin\Debug\GenericsEg.exe
+H:\L&T\NewBatch\GenericsEg\GenericsEg\bin\Debug\GenericsEg.pdb
+H:\L&T\NewBatch\GenericsEg\GenericsEg\obj\Debug\GenericsEg.csprojResolveAssemblyReference.cache
+H:\L&T\NewBatch\GenericsEg\GenericsEg\obj\Debug\GenericsEg.exe
+H:\L&T\NewBatch\GenericsEg\GenericsEg\obj\Debug\GenericsEg.pdb
